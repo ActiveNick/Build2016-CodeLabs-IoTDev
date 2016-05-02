@@ -1,3 +1,5 @@
+NOTE: Unlike Module 3, this lab has not gone through QA. There are likely some bugs in it. Please referr to module 3 if you have any problems.
+
 ﻿<a name="HOLTop"></a>
 # Introduction to Azure IoT (Simulated IoT Device)#
 
